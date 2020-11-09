@@ -3,8 +3,6 @@
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1,92 News (Opt-2)
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
-#EXTINF:-1,Canada One (CA)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1,Dunya News (Opt-1)
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:-1,Eawaz TV (CA)
@@ -31,8 +29,6 @@ http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,Lahore News (Opt-2)
 http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
-#EXTINF:-1,Prime Canada TV (CA)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1,PTV Home
 https://59aeddfe9f01c.streamlock.net/live/PTVhome/chunklist.m3u8
 #EXTINF:-1,PTV News
@@ -53,7 +49,4 @@ https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1,Tag TV (Opt-2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1,Toronto 360 TV (CA)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1,Urdu TV Toronto (CA)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
